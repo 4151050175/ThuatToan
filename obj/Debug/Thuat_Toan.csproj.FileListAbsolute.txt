@@ -1,0 +1,7 @@
+C:\Users\Viet_Tran\source\repos\Thuat_Toan\Thuat_Toan\bin\Debug\Thuat_Toan.exe.config
+C:\Users\Viet_Tran\source\repos\Thuat_Toan\Thuat_Toan\bin\Debug\Thuat_Toan.exe
+C:\Users\Viet_Tran\source\repos\Thuat_Toan\Thuat_Toan\bin\Debug\Thuat_Toan.pdb
+C:\Users\Viet_Tran\source\repos\Thuat_Toan\Thuat_Toan\obj\Debug\Thuat_Toan.csproj.AssemblyReference.cache
+C:\Users\Viet_Tran\source\repos\Thuat_Toan\Thuat_Toan\obj\Debug\Thuat_Toan.csproj.CoreCompileInputs.cache
+C:\Users\Viet_Tran\source\repos\Thuat_Toan\Thuat_Toan\obj\Debug\Thuat_Toan.exe
+C:\Users\Viet_Tran\source\repos\Thuat_Toan\Thuat_Toan\obj\Debug\Thuat_Toan.pdb
